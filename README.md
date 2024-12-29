@@ -1,6 +1,6 @@
 # Xin chào 👋, mình là Khang
 
-Chào mừng đến với github của mình
+Chào mừng đến với github của mình  
 [Trang portfolio của mình](https://kovenski123.github.io/)
 
 ## 🚀 Về bản thân
